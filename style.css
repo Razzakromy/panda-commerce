@@ -1,0 +1,98 @@
+.container{
+    margin-bottom: 100px;
+}
+
+.carousel-bg{
+    background-color: #FEEAE9;
+    border-radius: 10px;
+}
+
+.price{
+    color: #FF136F;
+}
+
+.buy-now-btn{
+    color: #fff;
+    background-image: linear-gradient(to bottom, #FF1A74 0%, #FF5297 100% );
+    border-radius: 8px;
+    border: none;
+    padding: 10px 25px;
+    cursor: pointer;
+}
+.carousel-item{
+    padding: 10px 40px;
+}
+
+.categories h1{
+    color: #fff;
+}
+
+.categories img{
+    width: 100px;
+}
+.cat1, .cat2, .cat3{
+    padding:10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    background-image: linear-gradient(to left,#FFD019 0%, #FF9C35 100%);
+}
+
+.cat2{
+    background-image: linear-gradient(to left,#FF589B 0%, #FF136F 100%);
+}
+
+.cat3{
+    background-image: linear-gradient(to left,#4289FF 0%, #3F07F8 100%);
+}
+
+.buy-now-shoes {
+	background-color: #000;
+	color: #fff;
+	border-radius: 10px;
+	border: none;
+	padding: 10px 10px;
+}
+
+.buy-now-shoes:hover {
+	background-color: #979797;
+	color: #000;
+}
+
+.card {
+	border: none;
+	box-shadow: 5px 5px 10px lightgray;
+	border-radius: 10px;
+}
+
+.subscribe{
+    height: 300px;
+}
+
+.subscribe input {
+	border: none;
+	border-radius: 4px 0px 0px 4px;
+	padding: 7px 72px 7px 16px;
+}
+
+.subscribe input[placeholder]{
+    color: #CCCCCC;
+}
+
+.sub-btn {
+	border: none;
+	background-image: linear-gradient(to top, #FF589B 0%, #FF136F 100%);
+	padding: 7px 11px;
+	border-radius: 0px 4px 4px 0px;
+	color: #fff;
+	float: right;
+}
+
+.subscribe h6{
+    color: grey;
+}
+
+footer{
+    text-align: center;
+}
+
